@@ -1,0 +1,8 @@
+sample input -> -1 -chain sample.txt
+             -> -2 -probe sample.txt
+             
+IMPORTANT!!!
+hashing the big dictionary and finding the stats for Quadratic probing could take as 
+long as like 20 seconds so please be patient because it works :)
+
+to make: type in "make all"

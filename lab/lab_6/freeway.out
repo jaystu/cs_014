@@ -1,0 +1,8 @@
+Max flow obtained: 38
+Vertices in min cut: Riverside 
+Flow: 10 Path: Riverside Mira_Loma Chino Diamond_Bar Avocado_Hts EastLA East_LA_Xchange 
+Flow: 10 Path: Riverside Corona Prado Anaheim_Canyon Yorba_Linda Placentia Fullerton Bellflower Compton Signal_Hill Carson Gardena Watts Pico-Union East_LA_Xchange 
+Flow: 8 Path: Riverside Colton Ontario Pomona El_Monte Alhambra Lincoln_Heights East_LA_Xchange 
+Flow: 6 Path: Riverside Moreno_Valley Murrieta Corona Ontario Rancho_Cucamonga Glendora Irwindale Pasadena Montecito Lincoln_Heights East_LA_Xchange 
+Flow: 2 Path: Riverside Colton Ontario Pomona El_Monte Alhambra EastLA Commerce East_LA_Xchange 
+Flow: 2 Path: Riverside Moreno_Valley Beaumont Redlands San_Bernardino Colton Ontario Pomona Glendora Irwindale Pasadena Montecito Four_Level Lincoln_Heights East_LA_Xchange 
