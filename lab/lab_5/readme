@@ -1,3 +1,6 @@
+
+Program Description: Hashes a dictionary and compares user inputted words for fast and easy spell checking. Also prints statistics for type of hash table used (separate chaining or quadratic probing).
+
 sample input -> -1 -chain sample.txt
              -> -2 -probe sample.txt
              
